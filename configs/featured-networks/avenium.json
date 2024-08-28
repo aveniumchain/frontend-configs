@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Avenium Testnet",
+        "url": "https://testnet.avescan.net",
+        "group": "Mainnets",
+        "icon": "https://raw.githubusercontent.com/aveniumchain/frontend-configs/main/configs/network-icons/avenium.svg",
+        "isActive": true
+    },
+    {
+        "title": "Avenium Mainnet",
+        "url": "https://avescan.net",
+        "group": "Mainnets",
+        "icon": "https://raw.githubusercontent.com/aveniumchain/frontend-configs/main/configs/network-icons/avenium.svg",
+        "isActive": true
+    }
+]

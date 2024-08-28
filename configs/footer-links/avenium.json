@@ -1,0 +1,59 @@
+[
+    {
+      "title": "Developers",
+      "links": [
+        {
+          "text": "Documentation",
+          "url": "https://guide.avescan.net"
+        },
+        {
+          "text": "GitHub",
+          "url": "https://github.com/aveniumchain"
+        }
+      ]
+    },
+    {
+      "title": "Community",
+      "links": [
+        {
+          "text": "Twitter",
+          "url": "https://x.com/aveniumchain"
+        },
+        {
+          "text": "Telegram",
+          "url": "https://t.me/AveniumOfficial"
+        },
+        {
+          "text": "Blog",
+          "url": "https://medium.com/@aveniumdeveloper"
+        }
+      ]
+    },
+    {
+      "title": "About Ave",
+      "links": [
+        {
+          "text": "Whitepaper",
+          "url": "https://avenium.io/avenium-whitepaper-v1.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Partners",
+      "links": [
+        {
+          "text": "Techrate",
+          "url": "https://github.com/TechRate/Smart-Contract-Audits/blob/main/July_2024/Avenium%20Chain.pdf"
+        },
+        {
+          "text": "DappBay",
+          "url": "https://dappbay.bnbchain.org/detail/aveswap"
+        },
+        {
+          "text": "Aveswap",
+          "url": "https://aveswap.finance"
+        }
+      ]
+    }
+  ]
+  
